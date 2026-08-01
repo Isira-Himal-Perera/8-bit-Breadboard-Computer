@@ -6,10 +6,9 @@ An 8-bit breadboard computer architecture built using discrete 74LS series logic
 
 ## 📸 System Overview
 
-| Hardware Build | Logisim Schematic |
-| :---: | :---: |
-| ![Hardware Build](media/breadboard-computer-full-build.jpeg) | ![Logisim Schematic](media/Computer.png) |
----
+<p align="center">
+  <img src="media/breadboard-computer-full-build.jpeg" alt="Hardware Build" width="600"/>
+</p>
 
 ## 🏗️ Architecture & Features
 
