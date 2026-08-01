@@ -1,0 +1,17 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sim_1/new/computer_tb.sv,1785591648,systemVerilog,,,,computer_tb,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/alu.sv,1785590975,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/alu_system.sv,,alu,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/alu_system.sv,1785591027,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/computer.sv,,alu_system,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/computer.sv,1785591165,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/control_unit.sv,,computer,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/control_unit.sv,1785590634,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/counter.sv,,control_unit,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/counter.sv,1785590705,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/instruction_register.sv,,counter,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/instruction_register.sv,1785590563,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/memory_system.sv,,instruction_register,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/memory_system.sv,1785591379,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/register.sv,,memory_system,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/register.sv,1785590492,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/single_port_bram.sv,,register,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/single_port_bram.sv,1785591327,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/tri_state_buffer.sv,,single_port_bram,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/tri_state_buffer.sv,1785590490,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/tri_state_counter.sv,,tri_state_buffer,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sources_1/new/tri_state_counter.sv,1785590763,systemVerilog,,E:/Projects/SystemVerilog/8bitComputer/8bitComputer.srcs/sim_1/new/computer_tb.sv,,tri_state_counter,,uvm,../../../../../../../Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
