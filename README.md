@@ -50,18 +50,18 @@ Generates the Fibonacci sequence up to 8-bit rollover limits.
 
 ```assembly
 ; Fibonacci Sequence Generator
-LDI 0      ; A = 0
-STA 14     ; Store term 1 at RAM[14]
-LDI 1      ; A = 1
-STA 15     ; Store term 2 at RAM[15]
+LDI 0x0    ; A = 0
+STA 0xE    ; Store term 1 at RAM[14]
+LDI 0x1    ; A = 1
+STA 0xF    ; Store term 2 at RAM[15]
 OUT        ; Display term
-LDA 14     ; Load term 1
-ADD 15     ; Add term 2
-JC  13     ; Halt on overflow
-STA 13     ; Temporary save
-LDA 15     ; Shift term 2 -> term 1
-STA 14
-LDA 13     ; Shift sum -> term 2
-STA 15
-JMP 4      ; Repeat loop
+LDA 0xE    ; Load term 1
+ADD 0xF    ; Add term 2
+JC  0xD    ; Halt on overflow
+STA 0xD    ; Temporary save
+LDA 0xF    ; Shift term 2 -> term 1
+STA 0xE
+LDA 0xD    ; Shift sum -> term 2
+STA 0xD
+JMP 0x4    ; Repeat loop
 HLT        ; Stop
